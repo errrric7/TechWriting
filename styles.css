@@ -92,3 +92,7 @@ body {
     width: 100%;
 }
 
+.lead{
+    line-height: 3.5 em;
+}
+
